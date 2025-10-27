@@ -52,17 +52,85 @@ fi
 
 ## Follow Along {#sec-follow-along}
 
-![](./imgs/qr-code.png)
-
-## Disclosures {#sec-disclosures}
-
-I have no disclosures or conflicts-of-interests related to this presentation
-
-## Learning Objectives {#sec-learning-objs}
+![](./imgs/qr-code.png){width=50%}
 
 ## Motivation {#sec-motivation}
 
-## Purpose {#sec-purpose}
+- *Valid* classroom assessment is **hard**
+
+- Student perceptions on evaluations are **unclear**
+
+- Student's have opinions on the *instructor*, less on *content*
+
+- How can I bring students into the **process** of how I "grade" them
+
+## Value of Student Buy-in {#sec-student-buy-in}
+
+- Students may see assessment as accountability at best, irrelevant at worst
+[@fletcher_faculty_2012; @brown_students_2008]
+
+- Trust is important so they can learn from assessment [@chu_students_2014;
+@carless_trust_2009; @leighton_pedagogical_2018]
+
+- The right, little "moves" can help make that trust more tangible
+[@felten_building_2023]
+
+# My Implementation {#sec-my-implementation}
+
+## Assessment at Regular Interval {#sec-assess-regular-interval}
+
+- I already had consistent weekly quizzes as a mainstay in my courses
+
+- Associated with good effects on retention [@thomas_should_2020;
+@haigh_sustaining_2007]
+
+- When corrective feedback is fast, supports better self-correction
+[@marcell_effectiveness_2008]
+
+- My existing structure was ripe for addition
+
+## Embed in the Assessment {#sec-embed}
+
+- 10-question multiple-choice quiz, open-note, relatively low stakes
+
+- Embed in 1 - 2 quant/qual questions to assess "accuracy" of quiz
+
+- Aim to capture an immediate "state"-like feeling, knee-jerk reaction (similar
+to @spielberger_state-trait_2012)
+
+## Format of the Question {#sec-id}
+
+- Research on face validity from the student perspective is sparse at times
+
+- Does show it's importance in maintaining relevance to the student
+[@hollissawyer_potential_2008; @sato_test-taker_2015]
+
+- Some examples:
+  - "Rate how close this quiz was to what we learned in class last week (1 - 5)"
+  - "Do you feel like this content was covered in class? (yes / no)"
+  - "Explain whether you feel this was representative of what you know (open)"
+  - "What other topic were you expecting to show up that didn't (open)"
+
+## Debrief and Analysis {#sec-debrief-analysis}
+
+- If easily accessible through LMS, may display bar graphs on board for
+numerical questions
+
+- Look for common vocabulary in the open responses
+
+- Use the insights from the qualitative to follow-up on the quantitative
+
+# Advice for Your Implementation {#sec-your-implementation}
+
+## Things to Avoid {#sec-things-to-avoid}
+
+- Creating culture of arguing for points
+
+- Students aren't SMEs, you don't need to treat them like one!
+
+- Only using quant or qual - use both!
+
+- Trying to do too much!
 
 {{< pagebreak >}}
 
