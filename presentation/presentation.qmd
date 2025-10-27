@@ -52,6 +52,8 @@ fi
 
 ## Follow Along {#sec-follow-along}
 
+![](./imgs/qr-code.png)
+
 ## Disclosures {#sec-disclosures}
 
 I have no disclosures or conflicts-of-interests related to this presentation
